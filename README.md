@@ -15,7 +15,9 @@ On
 ![](https://i.imgur.com/pvXvnC5.jpg)
 Off
 ![](https://i.imgur.com/hwUBGZL.jpg)
+
 ## Download
+Please head to the [latest release](https://github.com/Lemagex/lempreset-reshade/releases/latest).
 
 ## Setup
 Copy reshade-presets and reshade-shaders to your game directory to ensure you have the correct versions of shaders required to use these presets!!!! If you already have the shader files, please select SKIP and not REPLACE as yours may be more up to date!
