@@ -4,17 +4,17 @@ I hope you enjoy them as much as I do :)
 
 ## Screenshots
 On
-!(https://i.imgur.com/Iam8a35.jpg)
+![](https://i.imgur.com/Iam8a35.jpg)
 Off
-!(https://i.imgur.com/R5nLqgh.jpg)
+![](https://i.imgur.com/R5nLqgh.jpg)
 On
-!(https://i.imgur.com/YcdnUpf.jpg)
+![](https://i.imgur.com/YcdnUpf.jpg)
 Off
-!(https://i.imgur.com/r3jDoix.jpg)
+![](https://i.imgur.com/r3jDoix.jpg)
 On
-!(https://i.imgur.com/pvXvnC5.jpg)
+![](https://i.imgur.com/pvXvnC5.jpg)
 Off
-!(https://i.imgur.com/hwUBGZL.jpg)
+![](https://i.imgur.com/hwUBGZL.jpg)
 ## Download
 
 ## Setup
