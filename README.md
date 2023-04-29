@@ -20,7 +20,8 @@ Off
 Please head to the [latest release](https://github.com/Lemagex/lempreset-reshade/releases/latest).
 
 ## Setup
-Copy reshade-presets and reshade-shaders to your game directory to ensure you have the correct versions of shaders required to use these presets!!!! If you already have the shader files, please select SKIP and not REPLACE as yours may be more up to date!
+Copy reshade-presets to your game directory.
+I also recommend using [this plugin](https://github.com/4lex4nder/ReshadeEffectShaderToggler-FFXIV_UIONLY) to keep your UI untouched.
 
 ## Selecting Profile In-game
 All my profiles will be stored in your presets folder under >Lemage
