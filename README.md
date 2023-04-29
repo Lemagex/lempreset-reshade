@@ -30,3 +30,7 @@ Please select them there!
 These presets were designed for RESHADE but they may or may not work on other #SHADE forks.
 
 Enjoy!
+
+## FAQ
+My game is super dark!
+You're using Gshade ported shaders or other non-standard replacements for Reshade's shaders. Please only use the ones provided by the Reshade installer when selecting my preset. Sorry.
