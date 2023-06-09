@@ -2,6 +2,7 @@
 Just my presets for Reshade usage. These are gameplay focused.
 I hope you enjoy them as much as I do :)
 
+
 ## Screenshots
 On
 ![](https://i.imgur.com/Iam8a35.jpg)
@@ -15,6 +16,11 @@ On
 ![](https://i.imgur.com/pvXvnC5.jpg)
 Off
 ![](https://i.imgur.com/hwUBGZL.jpg)
+
+## Pre Requisites
+Reshade, obviously. Head over to [their download page](https://reshade.me/#download)
+Be sure to download the one labelled "with full addon support" 
+Follow the prompts, it's a well made installer and will guide you well. You can even download my preset first and feed it into the installer for it to download only the shaders required. Otherwise, if you plan on using it with other presets, you should just grab it all.
 
 ## Download
 Please head to the [latest release](https://github.com/Lemagex/lempreset-reshade/releases/latest).
